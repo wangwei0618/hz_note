@@ -3,3 +3,7 @@
 server:
  
    port: 8081
+
+spring:
+   applocation:
+      name: hz-note
